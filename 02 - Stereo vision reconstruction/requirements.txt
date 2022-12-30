@@ -1,0 +1,4 @@
+matplotlib==3.3.4
+misc==0.0.0
+numpy==1.21.3
+opencv_python==4.5.5.64
