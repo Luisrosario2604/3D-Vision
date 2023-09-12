@@ -13,22 +13,23 @@ Stereo vision reconstruction, epipolar geometry ...
 
 ## Requirements
 
-* Python 3.7+
-* Jupiter notebook
-* matplotlib == 3.3.4
-* misc == 0.0.0
-* numpy == 1.21.*
-* opencv_python == 4.5.5.*
+* Python 3.9+
+* jupyter ~= 1.0.0
+* matplotlib ~= 3.3.4
+* numpy ~= 1.21.3
+* opencv_python ~= 4.5.5.54
+* scipy ~= 1.7.1
 
 How to install all the requirements :
+
 ```bash
-$ pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-$ jupiter notebook Stereo_vision_reconstruction.ipynb
+jupyter notebook Stereo_vision_reconstruction.ipynb
 ```
 
 or
@@ -52,7 +53,6 @@ Open ```Stereo_vision_reconstruction.pdf```
 </p>
 
 ## Structure
-
     .
     ├── 9.6.png
     ├── building
@@ -72,4 +72,4 @@ Open ```Stereo_vision_reconstruction.pdf```
 
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

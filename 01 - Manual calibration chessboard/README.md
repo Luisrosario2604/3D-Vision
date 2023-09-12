@@ -13,22 +13,23 @@ Manual calibration of the camera with a chessboard.
 
 ## Requirements
 
-* Python 3.7+
-* Jupiter notebook
-* matplotlib == 3.3.4
-* numpy == 1.21.3
-* opencv_python == 4.5.5.*
-* scipy == 1.7.1
+* Python 3.9+
+* jupyter ~= 1.0.0
+* matplotlib ~= 3.3.4
+* numpy ~= 1.21.3
+* opencv_python ~= 4.5.5.64
+* scipy ~= 1.7.1
 
 How to install all the requirements :
+
 ```bash
-$ pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-$ jupyter notebook Manual_camera_calibration.ipynb
+jupyter notebook Manual_camera_calibration.ipynb
 ```
 
 or
@@ -52,7 +53,6 @@ Open ```Manual_camera_calibration.pdf```
 </p>
 
 ## Structure
-
     .
     ├── images
     │    └── *.png
@@ -66,4 +66,4 @@ Open ```Manual_camera_calibration.pdf```
 
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
